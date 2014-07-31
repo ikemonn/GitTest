@@ -1,3 +1,2 @@
-osone
 feature-C!!
 feature-D!!
